@@ -50,6 +50,7 @@ __all__ = [
     "Charge",
     "GetChargeState",
     "Clean",
+    "Clean_V2",
     "CleanArea",
     "GetCleanInfo",
     "GetCleanLogs",
